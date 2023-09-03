@@ -1,5 +1,8 @@
 # QuantumNet
 ab-initio methods for quantum many-body systems
 
-## FermiNet
+## PauliNet
 https://github.com/noegroup/dlqmc-project
+
+## FermiNet
+https://github.com/deepmind/ferminet
