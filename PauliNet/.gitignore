@@ -1,0 +1,10 @@
+*.pyc
+/src/*.egg-info/
+/notebooks/.ipynb_checkpoints/
+/notebooks/tmp*
+/notebooks/runs
+/runs
+/dist/
+/bundle/
+/local.mk
+/data/raw/

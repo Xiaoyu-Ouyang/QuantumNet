@@ -1,0 +1,12 @@
+[submodule "pub"]
+	path = pub
+	url = git@github.com:noegroup/dlqmc-pub.git
+[submodule "data/motta-hydrogen"]
+	path = data/extern/motta-hydrogen
+	url = https://github.com/simonsfoundation/hydrogen-benchmark-PRX.git
+[submodule "extern/torch-kfac"]
+	path = extern/torch-kfac
+	url = git@github.com:noegroup/torch-kfac.git
+[submodule "extern/deepqmc"]
+	path = extern/deepqmc
+	url = git@github.com:deepqmc/deepqmc.git
