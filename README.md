@@ -6,3 +6,6 @@ https://github.com/noegroup/dlqmc-project
 
 ## FermiNet
 https://github.com/deepmind/ferminet
+
+## PyQMC
+https://github.com/WagnerGroup/pyqmc
